@@ -241,7 +241,7 @@ _gmid:*:290:290::0:0:gmid daemon user:/var/empty:/usr/sbin/nologin
 # free: 294
 # free: 295
 # free: 296
-# free: 297
+dkron:*:297:297::0:0:dkron user:/var/db/dkron:/usr/sbin/nologin
 # free: 298
 owncast:*:299:299::0:0:& daemon:/nonexistent:/usr/sbin/nologin
 backuppc:*:300:300::0:0:BackupPC pseudo-user:/nonexistent:/usr/sbin/nologin
