@@ -224,3 +224,7 @@ vmd-*			science/vmd		No commercial use: commercial use requires a commercial lic
 msms-*			science/msms		No commercial use, only for use by individuals in scientific research
 netio*			benchmarks/netio	No commercial use: commercial use requires a commercial license
 zerotier-*	net/zerotier	No SaaS or Govt usage: https://github.com/zerotier/ZeroTierOne/blob/master/LICENSE.txt
+libretro-snes9x-*		emulators/libretro-snes9x	Commercial users must seek permission from copyright holders.
+libretro-snes9x-*		emulators/libretro-snes9x2005	Commercial users must seek permission from copyright holders.
+libretro-snes9x-*		emulators/libretro-snes9x2010	Commercial users must seek permission from copyright holders.
+princexml-*		print/princexml		For any commercial purpose, you must request a license from https://www.princexml.com/
