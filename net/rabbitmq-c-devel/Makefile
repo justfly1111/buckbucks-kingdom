@@ -1,7 +1,7 @@
 # Created by: Geoff Garside
 
 PORTNAME=	rabbitmq-c
-PORTVERSION=	0.10.0
+PORTVERSION=	0.11.0
 DISTVERSIONPREFIX=	v
 CATEGORIES=	net
 PKGNAMESUFFIX=	-devel
