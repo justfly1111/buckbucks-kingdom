@@ -579,6 +579,7 @@
     SUBDIR += kops
     SUBDIR += krename
     SUBDIR += kshutdown
+    SUBDIR += kvmclock-kmod
     SUBDIR += ksystemlog
     SUBDIR += kubectl
     SUBDIR += lava

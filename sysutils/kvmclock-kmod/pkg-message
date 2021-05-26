@@ -1,0 +1,10 @@
+kvmclock-kmod is experimental and currently under development. This port
+provides an easy and quick method for users to test this code for early
+testing, feedback and bug reports.
+
+This driver enables FreeBSD to use a more efficient paravirtualized
+hardware clock, instead of emulating one, or abusing hypervisor
+interrupts, when running as a virtualized OS under Linux KVM
+(Kernel-based Virtual Machine).
+
+Please report successes and issues to: https://reviews.freebsd.org/D29733
