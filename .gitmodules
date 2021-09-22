@@ -1,3 +1,6 @@
 [submodule "wip"]
 	path = wip
 	url = https://github.com/outpaddling/freebsd-ports-wip
+[submodule "buckbucks-domain"]
+	path = /opt/ports/buckbucks-kingdom
+	url = https://github.com/justfly1111/buckbucks-domain.git
