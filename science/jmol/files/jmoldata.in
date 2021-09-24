@@ -1,3 +1,0 @@
-#!/bin/sh
-
-exec %%JAVA%% -Djmol.home="%%JAVAJARDIR%%" -Djava.awt.headless=true -jar "%%JAVAJARDIR%%/JmolData.jar" "$@"

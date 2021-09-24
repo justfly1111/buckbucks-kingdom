@@ -1,3 +1,0 @@
-Terser minifies JavaScript files by wrapping TerserJS to be accessible in Ruby
-
-WWW: http://github.com/ahorek/terser-ruby

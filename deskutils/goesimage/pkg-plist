@@ -1,5 +1,0 @@
-bin/goesimage-disable
-bin/goesimage-enable
-bin/goesimage-run-now
-libexec/goesimage
-%%DATADIR%%/crontab

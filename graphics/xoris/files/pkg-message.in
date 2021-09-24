@@ -1,7 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-* See %%DOCSDIR%%/README before using xoris!
-EOM
-}
-]

@@ -1,3 +1,0 @@
-Cython hash tables that assume keys are pre-hashed.
-
-WWW: https://github.com/explosion/preshed

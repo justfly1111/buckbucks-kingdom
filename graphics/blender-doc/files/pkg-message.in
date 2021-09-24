@@ -1,8 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-You can start browsing documentation here:
-%%DOCSDIR%%/htmlI/index.html
-EOM
-}
-]

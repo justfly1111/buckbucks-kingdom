@@ -1,9 +1,0 @@
-Parses and updates Python dependency files. Following files are supported:
-
-* requirements.txt
-* conda.yml
-* tox.ini
-* Pipfile
-* Pifile.lock
-
-WWW: https://github.com/pyupio/dparse

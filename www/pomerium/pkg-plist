@@ -1,5 +1,0 @@
-@sample %%ETCDIR%%/config.yaml.sample
-bin/pomerium-cli
-libexec/pomerium
-@dir %%ETCDIR%%
-@dir %%POMERIUMPIDDIR%%

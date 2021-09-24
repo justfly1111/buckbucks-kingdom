@@ -1,3 +1,0 @@
-#!/bin/sh
-
-exec %%JAVA_HOME%%/bin/java -Dawt.useSystemAAFontSettings=on -jar %%DATADIR%%/yed.jar "$@"

@@ -1,4 +1,0 @@
-OpenCensus provides a framework to measure a server's resource usage and collect
-performance stats.
-
-WWW: https://github.com/census-instrumentation/opencensus-python

@@ -1,9 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-keyboardcast requires /proc to be mounted!
-
-See man procfs for more information.
-EOM
-}
-]

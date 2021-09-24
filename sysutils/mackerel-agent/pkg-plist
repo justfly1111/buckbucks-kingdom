@@ -1,3 +1,0 @@
-bin/mackerel-agent
-@dir %%ETCDIR%%
-@sample %%ETCDIR%%/mackerel-agent.conf.sample

@@ -1,8 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-A 2 clause BSD licence applies to this application:
-http://samesame.kruijff.org/license.html
-EOM
-}
-]

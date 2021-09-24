@@ -1,9 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-Type following commands to setup:
-
-  # %%PORTNAME%%-setup
-EOM
-}
-]

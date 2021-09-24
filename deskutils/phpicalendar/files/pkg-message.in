@@ -1,9 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-PHPiCalendar post-install instructions
---------------------------------------
-Edit %%WWWDIR%%/config.inc.php first to suit your needs.
-EOM
-}
-]

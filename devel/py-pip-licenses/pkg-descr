@@ -1,4 +1,0 @@
-pip-licenses is a CLI tool for checking the software license of installed Python
-packages with pip.
-
-WWW: https://github.com/raimon49/pip-licenses

@@ -1,8 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-   Please read the documentation in %%DATADIR%%/README
-   about configuring the server and creating a world.
-EOM
-}
-]

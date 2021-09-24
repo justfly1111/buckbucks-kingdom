@@ -1,4 +1,0 @@
-Guard::Cucumber allows you to automatically run Cucumber features when files are
-modified.
-
-WWW: https://github.com/guard/guard-cucumber

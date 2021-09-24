@@ -1,4 +1,0 @@
-lib/varnish/vmods/libvmod_dynamic.so
-man/man3/vmod_dynamic.3.gz
-%%PORTDOCS%%%%DOCSDIR%%/LICENSE
-%%PORTDOCS%%%%DOCSDIR%%/README.rst
