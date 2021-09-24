@@ -1,6 +1,0 @@
-%%SITE_PERL%%/Gtk3/ImageView.pm
-%%SITE_PERL%%/Gtk3/ImageView/Tool.pm
-%%SITE_PERL%%/Gtk3/ImageView/Tool/Dragger.pm
-%%SITE_PERL%%/Gtk3/ImageView/Tool/Selector.pm
-%%SITE_PERL%%/Gtk3/ImageView/Tool/SelectorDragger.pm
-%%PERL5_MAN3%%/Gtk3::ImageView.3.gz

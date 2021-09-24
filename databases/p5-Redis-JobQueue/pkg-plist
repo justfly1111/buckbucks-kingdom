@@ -1,6 +1,0 @@
-%%SITE_PERL%%/Redis/JobQueue.pm
-%%SITE_PERL%%/Redis/JobQueue/Job.pm
-%%SITE_PERL%%/Redis/JobQueue/Util.pm
-%%PERL5_MAN3%%/Redis::JobQueue.3.gz
-%%PERL5_MAN3%%/Redis::JobQueue::Job.3.gz
-%%PERL5_MAN3%%/Redis::JobQueue::Util.3.gz

@@ -1,8 +1,0 @@
-Labwc is a wlroots-based stacking compositor for Wayland.
-
-It aims to be light-weight and independent, with a focus on simply
-stacking windows well and rendering some window decorations. Where
-practicable, it uses clients for wall-paper, panels, screenshots, and
-so on.
-
-WWW: https://github.com/johanmalm/labwc

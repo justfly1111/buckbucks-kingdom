@@ -1,2 +1,0 @@
-
-PKGNAMEPREFIX?=	uk-

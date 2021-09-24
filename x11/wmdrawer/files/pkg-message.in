@@ -1,8 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-Use %%DOCSDIR%%/wmdrawerrc.example as a base
-for your ~/.wmdrawerrc
-EOM
-}
-]

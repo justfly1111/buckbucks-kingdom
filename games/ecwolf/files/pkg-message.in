@@ -1,7 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-To play this game, unpack original files to %%PREFIX%%/share/%%PORTNAME%%.
-EOM
-}
-]

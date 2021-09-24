@@ -1,2 +1,0 @@
-#!/bin/sh
-exec "%%JAVA%%" $JAVA_OPTS -classpath "%%CLASSPATH%%" com.gitlab.pdftk_java.pdftk "$@"

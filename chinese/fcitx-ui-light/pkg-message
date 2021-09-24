@@ -1,9 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-Replace your `fcitx` command with
-	fcitx -u fcitx-light-ui
-to start Fcitx with this lightweight UI.
-EOM
-}
-]

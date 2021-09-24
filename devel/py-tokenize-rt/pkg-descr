@@ -1,3 +1,0 @@
-A wrapper around the stdlib `tokenize` which roundtrips.
-
-WWW: https://github.com/asottile/tokenize-rt

@@ -1,8 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-%%NOTEWORK%%
-Edit %%ETCDIR%%/lightsquid.cfg to suit your needs.
-EOM
-}
-]

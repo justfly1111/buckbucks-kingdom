@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-exec %%PREFIX%%/bin/$(basename $0) ${1+"$@"}

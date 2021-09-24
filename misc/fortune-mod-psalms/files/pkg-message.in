@@ -1,7 +1,0 @@
-[
-{ type: install
-  message: <<EOM
-Usage: fortune %%PREFIX%%/share/games/fortune/psalms
-EOM
-}
-]
